@@ -2,7 +2,7 @@
 
 A fully responsive, accessible, and modern web portal designed for a community health clinic in Ghana. This project demonstrates advanced frontend development skills, focusing on mobile-first design, user experience (UX), and robust client-side validation.
 
-**Live Demo:** [Insert your GitHub Pages URL here once deployed]
+**Live Demo**: https://kobdotgyan.github.io/nkabom-health-portal/
 
 ## 🚀 Key Features
 
